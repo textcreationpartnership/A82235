@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the states of Holland, concerning the Parliament of England: with the rising of the Dutch-men, their seting forth three hundred sayl of ships to be reveng'd upon the English; their design against Dover castle; and their banishing of the English from the exchange in Amsterdam, and other places. Also, joyful newes from Ireland; the obtaining of a great victory by the Parliaments forces; and the surrender of the strong town of Gallaway to Sir Charles Coot; with all the ordnance, arms, ammunition, bagg and baggage.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82235</idno>
+            <idno type="STC">Wing D769</idno>
+            <idno type="STC">Thomason E656_1</idno>
+            <idno type="STC">ESTC R206573</idno>
+            <idno type="EEBO-CITATION">99865697</idno>
+            <idno type="PROQUEST">99865697</idno>
+            <idno type="VID">117946</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117946)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 101:E656[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the states of Holland, concerning the Parliament of England: with the rising of the Dutch-men, their seting forth three hundred sayl of ships to be reveng'd upon the English; their design against Dover castle; and their banishing of the English from the exchange in Amsterdam, and other places. Also, joyful newes from Ireland; the obtaining of a great victory by the Parliaments forces; and the surrender of the strong town of Gallaway to Sir Charles Coot; with all the ordnance, arms, ammunition, bagg and baggage.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 8th. 1651"; also the last number of the imprint date has been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  Foreign relations --  1648-1714 --  England.</term>
+               <term>Great Britain --  Foreign relations --  1649-1660 --  Netherlands.</term>
+               <term>Netherlands --  Politics and government --  1648-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117946:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE STATES of HOLLAND, <hi>CONCERNING THE</hi> PARLIAMENT <hi>OF</hi> ENGLAND: <hi>WITH</hi> The Riſing of the Dutch-men, their ſeting forth three hundred Sayl of Ships to be reveng'd upon the <hi>Engliſh;</hi> their Deſign againſt <hi>Dover</hi> Caſtle; and their baniſhing of the <hi>Engliſh</hi> from the Exchange in <hi>Amſterdam,</hi> and other places.</p>
+            <p>Alſo, joyful Newes from IRELAND; the obtaining of a great Victory by the Parlia<g ref="char:EOLhyphen"/>ments Forces; and the ſurrender of the ſtrong Town of <hi>Gallaway</hi> to Sir <hi>Charles Coot;</hi> with all the Ordnance, Arms, Ammunition, Bagg and Baggage.</p>
+            <p>
+               <add>March .8<hi rend="sup">th.</hi>
+               </add> 
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1652. <add>1651</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117946:2"/>
+            <pb n="3" facs="tcp:117946:2"/>
+            <head>A DECLARATION OF THE High and Mighty States, the States Gene<g ref="char:EOLhyphen"/>rall of the United Provinces; concerning the proclaiming of open Wars with England.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON the third of this inſtant Month, the great Aſſembly of the United Provinces met at the Hague, where there was a large Debate touching the proclaiming of open Wars with Eng<g ref="char:EOLhyphen"/>land, otherwiſe to have reſtitution and ſatisfaction for all their ſhips and Goods taken: But after ma<g ref="char:EOLhyphen"/>ture del<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>beration touching the apparent dangers that might thereby enſue, the States of Holland gave in their poſitive Reſult, declaring, That they were reſolved (to the utmoſt of their power) to preſerve
+<pb n="4" facs="tcp:117946:3"/>a firm League and Union with the States of Eng<g ref="char:EOLhyphen"/>land; and to hold a fair correſpondency for the in<g ref="char:EOLhyphen"/>creaſe of free Trade and Commerce: Whereupon the States and Merchants of Zealand roſe up in great fury, diſolved the Aſſembly, and vowed re<g ref="char:EOLhyphen"/>venge upon the Engliſh; but its thought the States General will be more prudent and wiſe then to hearken to the cryes or gruntling of the Bores; for here is a Proverb, That the Cries ot the Geeſe are never heard up to Heaven.</p>
+            <p>Yet notwithſtanding, the ſpirits of many thou<g ref="char:EOLhyphen"/>ſands are much exaſperated, and great are the prepa<g ref="char:EOLhyphen"/>rations which are making throughout the United Provinces; The Merchants of Zealand have ſent 40 Commiſſioners to the States General, to treat with them about ſetting forth the Summers Fleet, and two hundred ſhips with Letters of Mart; ſo that they are again ſat down in Councel, and its concei<g ref="char:EOLhyphen"/>ved that at this Meeting, it will be reſolved, to man out about 150 Men of War at the publike charge, beſides what will be ſet forth by the Merchants, and Others, upon Letters of Mart, which (if things hold at this paſs) our Governors that are well-affected to England, will be in evident danger of utter ruine.</p>
+            <p>For great are the Conteſts between the Burgo<g ref="char:EOLhyphen"/>maſters and the Bores; for the latter doth threaten to ſequeſter their Eſtates, and bring them to a Tryall
+<pb n="5" facs="tcp:117946:3"/>for their lives, if they will not take a courſe to defend and aſſiſt them at Sea. And ſome Tumults and Ri<g ref="char:EOLhyphen"/>ſings have already been in Zealand, Rotterdam, Dort, Delf, and at the Hague, where many were both ſlain and wounded, and amongſt the reſt ſome Engliſh, which the Mutiniers chiefly aymed at, and brand them with the moſt infamous Badge of Tray<g ref="char:EOLhyphen"/>tors and Conſpirators to their Religion and Liber<g ref="char:EOLhyphen"/>ties; which they are yet to chuſe. And upon this Score, divers Engliſh Merchants are prohibited from coming upon the Exchange in Amſterdam, and o<g ref="char:EOLhyphen"/>ther places. 200 Commiſſioners have bin ſent to all the Frontier and Haven Towns, to ſee how many ſhips each Town can make ready in three weekes time: And having taken a Liſt thereof, upon their return, cauſed the ſame to be printed; wherein ap<g ref="char:EOLhyphen"/>pears the ſimilitude of a great Armado, conſiſting of about 300 ſayl of ſhips, Danes, Dutch, and Ham<g ref="char:EOLhyphen"/>burgers: Beſides they tatk of 200 more to be ſet forth upon Letters of Mart; but the truth is, they'l talk more by an inch of Candle in their liquor by Land, then they can perform by a whole pound, when they are in their Element at Sea. And although they build Caſtles in the Ayr, make their Accounts in Spain, and reſolve to caſt them up in England, by blocking up Dover, Sandwitch, Deal, and other Ports; yet I believe in God, and refer you to the in<g ref="char:EOLhyphen"/>cloſed.</p>
+            <pb n="6" facs="tcp:117946:4"/>
+            <p> From Ireland we hear that the Enemy have uni<g ref="char:EOLhyphen"/>ted their Forces, and have had a conjunction with with the Earl of Clanrickard, whoſe deſign was to have raiſede the ſiege at Gallaway; but Sir Charles Coot having received intelligence thereof, drew off a party of Horſe and Foot, and intercepted them in their paſſage, which the Enemy perceiving, betook themſelves to flight, and in great diſorder expoſed themſelves to ſeveral Paſſes; but moſt of them were intercepted, about 1500 ſlain upon the place, and 700 taken priſoners: Thus it pleaſed Divine Providence ſo to blaſt and maugre their de<g ref="char:EOLhyphen"/>vices and ſtratagems, that of 4000, there eſcaped not above 1800; But in their Retreat they were met withall by Col. Sanchy, who charged them, and after a ſharp diſpute, routed them, killed many, and took divers priſoners; purſuing the reſt as far as the Bog of Moneal, where taking advantage of the froſt entred the Bog, ſtormed the ſtrong Caſtle of Mon<g ref="char:EOLhyphen"/>donall, and put all to the ſword: After which great ſucceſs, he marched to another ſtrong Hold (three miles diſtant) called Dublin; which place contained 800 Houſes, or Cabins; but he immediatly ſtorm<g ref="char:EOLhyphen"/>ed that alſo and killed 500 upon the place; In this gallant Attempt, the Colonel deported himſelf with a moſt magnanimous Spirit, being the firſt man that entred the Works; and the ſoldiers followed him
+<pb n="7" facs="tcp:117946:4"/>ſo cloſe, that they ſoon became Maſters of the Town, for which ſingular piece of ſervice, he gave them the free plunder of the Town, which amount<g ref="char:EOLhyphen"/>ed to a great value; as will appear by the Liſt inclo<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>The Enemy hath lately made a deſperate ſalley out of Gallaway, and fell into our quarters, where they took a prey of neer 100 Cows, and 200 ſheep; But it pleaſed the Lord as they returned, a party of Col. Ruſſels reſcued the prey, fought the Enemy, kill'd 60 of them, and took an Enſign, and divers o<g ref="char:EOLhyphen"/>thers priſoners.</p>
+            <p>The Town hath held out a long time, expecting relief, but now they begin to hearken to a Treaty; and its believed that General Preſton (their Governor) will deſert them, (leaving them to make their own Terms and Conditions) and be take himſelf to a ſtrong Iland of his in the Sea; and truly 'tis high time, for the ſouldiery begin to mutiny, and threaten to deliver him up to the mercy of the Parliament, in caſe he will not condeſcend to a Rendition of the Town.</p>
+            <p>But the Governor underſtanding the great diſtra<g ref="char:EOLhyphen"/>ctions of the Souldiery, and perceiving that there was little hopes of Relief, thought it requiſite to preſerve himſelf by making an eſcape; and accord<g ref="char:EOLhyphen"/>ingly attempting the Deſign, it proved effectual;
+<pb n="8" facs="tcp:117946:5"/>Since which time we hear, that the ſaid town is ſurrendred, with all the Ordnance, Arms, Ammunition, Bag and Baggage: which if true, will prove a work very acceptable and advantagious, and much conducing to the intereſt of the Common-wealth of Eng<g ref="char:EOLhyphen"/>land.</p>
+            <p>There are 15 Dutch Captains arrived here from the Barbadaes. who affirm, That the Engliſh turn'd them out of all their ſhips, only gave them a ſmall Veſſel to car<g ref="char:EOLhyphen"/>ry them home; but were forced to ſell the ſame to buy them proviſions: This doth exceedingly inrage them, and they have vowed revenge either by Sea or Land.</p>
+            <closer>
+               <dateline>Amſterdam <date>4 March, 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
